@@ -14,10 +14,10 @@ https://tailwindcss.com/docs/guides/vite
 
 Commands to spin up a react vite project with Tailwind:
 
-1) `npm create vite@latest my-project -- --template react`
-2) `cd my-project`
-3) `npm install -D tailwindcss postcss autoprefixer`
-4) `npx tailwindcss init -p`
+1) ```npm create vite@latest my-project -- --template react```
+2) ```cd my-project```
+3) ```npm install -D tailwindcss postcss autoprefixer```
+4) ```npx tailwindcss init -p```
 
 5) Add the paths to all of your template files in your tailwind.config.js file.
  ```
